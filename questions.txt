@@ -1,0 +1,62 @@
+Is there a  airplane  in the image ?
+Is there a  automobile  in the image ?
+Is there a  bird  in the image ?
+Is there a  cat  in the image ?
+Is there a  deer  in the image ?
+Is there a  dog  in the image ?
+Is there a  frog  in the image ?
+Is there a  horse  in the image ?
+Is there a  ship  in the image ?
+Is there a  truck  in the image ?
+Can  airplane  be seen in the image ?
+Can  automobile  be seen in the image ?
+Can  bird  be seen in the image ?
+Can  cat  be seen in the image ?
+Can  deer  be seen in the image ?
+Can  dog  be seen in the image ?
+Can  frog  be seen in the image ?
+Can  horse  be seen in the image ?
+Can  ship  be seen in the image ?
+Can  truck  be seen in the image ?
+Which object can be seen in the image ?
+Which digit do you see in the image ?
+Is there a  0  in the image ?
+Is there a  1  in the image ?
+Is there a  2  in the image ?
+Is there a  3  in the image ?
+Is there a  4  in the image ?
+Is there a  5  in the image ?
+Is there a  6  in the image ?
+Is there a  7  in the image ?
+Is there a  8  in the image ?
+Is there a  9  in the image ?
+Can  0  be seen in the image ?
+Can  1  be seen in the image ?
+Can  2  be seen in the image ?
+Can  3  be seen in the image ?
+Can  4  be seen in the image ?
+Can  5  be seen in the image ?
+Can  6  be seen in the image ?
+Can  7  be seen in the image ?
+Can  8  be seen in the image ?
+Can  9  be seen in the image ?
+Does the image contain an airplane ?
+Does the image contain automobile ?
+Does the image contain bird ?
+Does the image contain cat ?
+Does the image contain deer ?
+Does the image contain dog ?
+Does the image contain frog ?
+Does the image contain horse ?
+Does the image contain ship ?
+Does the image contain truck ?
+Does the image contain the digit 0 ?
+Does the image contain the digit 1 ?
+Does the image contain the digit 2 ?
+Does the image contain the digit 3 ?
+Does the image contain the digit 4 ?
+Does the image contain the digit 5 ?
+Does the image contain the digit 6 ?
+Does the image contain the digit 7 ?
+Does the image contain the digit 8 ?
+Does the image contain the digit 9 ?
